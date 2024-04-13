@@ -21,8 +21,8 @@ labels for each constraint label in each
 service in a Docker Compose / Docker Stack file."""
 
 setup(
-    author="Sebastian Ramirez",
-    author_email='khulnasoft@gmail.com',
+    author="KhulnaSoft DevOps",
+    author_email='info@khulnasoft.com',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',

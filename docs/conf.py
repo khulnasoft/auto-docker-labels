@@ -48,8 +48,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Docker Auto Labels'
-copyright = u"2018, Sebastian Ramirez"
-author = u"Sebastian Ramirez"
+copyright = u"2018, KhulnaSoft DevOps"
+author = u"KhulnaSoft DevOps"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -130,7 +130,7 @@ latex_elements = {
 latex_documents = [
     (master_doc, 'auto_docker_labels.tex',
      u'Docker Auto Labels Documentation',
-     u'Sebastian Ramirez', 'manual'),
+     u'KhulnaSoft DevOps', 'manual'),
 ]
 
 
