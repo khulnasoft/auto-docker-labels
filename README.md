@@ -37,6 +37,8 @@ For examples on how to use it, check: https://github.com/khulnasoft/full-stack
 
 ### Latest Changes
 
+* init commit. PR [#1](https://github.com/khulnasoft/auto-docker-labels/pull/1) by [@gitworkflows](https://github.com/gitworkflows).
+
 #### Internal
 
 * 🔧 Add GitHub templates for discussions and issues, and security policy. PR [#9](https://github.com/khulnasoft/auto-docker-labels/pull/9) by [@alejsdev](https://github.com/alejsdev).
