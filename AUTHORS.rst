@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Sebastian Ramirez <khulnasoft@gmail.com>
+* KhulnaSoft DevOps <info@khulnasoft.com>
 
 Contributors
 ------------
